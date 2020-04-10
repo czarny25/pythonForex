@@ -5,6 +5,3 @@ Created on 10 Apr 2020
 '''
 # this is intro to this project
 
-# gdfgdfgdfg
-
-#dsgsd
