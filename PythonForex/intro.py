@@ -2,7 +2,8 @@
 
 
 import numpy as np # numpy is external library and need to be imported
-
+import sys
+import os
 
 # simple list 
 list = [1,2,3]
